@@ -1,0 +1,184 @@
+[00:00:00.868] Server  LOG      ✓ Ready in 568ms
+[00:26:46.382] Server  LOG      ○ Compiling / ...
+[00:26:48.357] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:49.123] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:26:49.123] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:26:49.123] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764423327071}
+[00:27:06.723] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:27:06.723] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:27:34.830] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:35.406] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:27:35.406] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:27:35.406] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764423373535}
+[00:28:00.413] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:00.905] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:28:00.905] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:28:00.905] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764423399059}
+[00:28:54.057] Server  LOG      ✓ Compiled in 62ms
+[00:28:54.136] Browser LOG     transactions []
+[00:28:54.136] Browser LOG     transactions []
+[00:28:58.744] Server  LOG     transactions []
+[00:28:59.027] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:28:59.934] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:28:59.934] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764423457707}
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:28:59.934] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:28:59.934] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:28:59.934] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:28:59.934] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:28:59.934] Browser LOG     transactions []
+[00:30:04.019] Server  LOG      ✓ Compiled in 69ms
+[00:30:04.149] Browser LOG     transactions []
+[00:30:04.149] Browser LOG     transactions []
+[00:30:04.149] Browser LOG     transactions []
+[00:30:04.149] Browser LOG     transactions []
+[00:30:32.863] Server  LOG     transactions []
+[00:30:33.209] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:33.671] Browser LOG     transactions []
+[00:30:33.671] Browser LOG     transactions []
+[00:30:33.671] Browser LOG     transactions []
+[00:30:33.671] Browser LOG     transactions []
+[00:30:33.671] Browser LOG     Fetching transactions with filters: {"month":"ডিসেম্বর ২০২৫"}
+[00:30:33.671] Browser LOG     API URL: /api/transactions?month=%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:30:33.671] Browser LOG     transactions []
+[00:30:33.671] Browser LOG     transactions []
+[00:30:33.671] Browser LOG     Fetching transactions with filters: {"month":"নভেম্বর ২০২৫"}
+[00:30:33.671] Browser LOG     API URL: /api/transactions?month=%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:30:33.789] Browser LOG     API Response: {"data":[{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}],"success":true}
+[00:30:33.789] Browser LOG     Returning data: [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:30:33.789] Browser LOG     API Response: {"data":[],"success":true}
+[00:30:33.789] Browser LOG     Returning data: []
+[00:30:33.789] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:30:33.789] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:30:33.789] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764423551953}
+[00:30:33.789] Browser LOG     transactions []
+[00:30:33.789] Browser LOG     transactions []
+[00:30:48.990] Server  LOG      ✓ Compiled in 78ms
+[00:30:49.062] Browser LOG     transactions []
+[00:30:49.062] Browser LOG     transactions []
+[00:31:00.810] Server  LOG     transactions []
+[00:31:01.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:01.985] Browser LOG     transactions []
+[00:31:01.985] Browser LOG     transactions []
+[00:31:01.985] Browser LOG     Current month calculated: নভেম্বর ২০২৫
+[00:31:01.985] Browser LOG     Fetching transactions with filters: {"month":"ডিসেম্বর ২০২৫"}
+[00:31:01.985] Browser LOG     API URL: /api/transactions?month=%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:31:01.985] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:31:01.985] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:31:01.985] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764423579756}
+[00:31:01.985] Browser LOG     transactions []
+[00:31:01.985] Browser LOG     transactions []
+[00:31:01.985] Browser LOG     API Response: {"data":[{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}],"success":true}
+[00:31:01.985] Browser LOG     Returning data: [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:01.985] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:01.985] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:01.985] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:31:01.985] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:31:01.986] Browser LOG     transactions []
+[00:31:01.986] Browser LOG     transactions []
+[00:31:01.986] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:01.986] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:01.986] Browser LOG     transactions []
+[00:31:01.986] Browser LOG     transactions []
+[00:31:01.986] Browser LOG     Fetching transactions with filters: {"month":"নভেম্বর ২০২৫"}
+[00:31:01.986] Browser LOG     API URL: /api/transactions?month=%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:31:01.986] Browser LOG     API Response: {"data":[],"success":true}
+[00:31:01.986] Browser LOG     Returning data: []
+[00:31:01.986] Browser LOG     transactions []
+[00:31:01.986] Browser LOG     transactions []
+[00:31:01.986] Browser LOG     transactions []
+[00:31:01.986] Browser LOG     transactions []
+[00:31:03.842] Server  LOG     transactions []
+[00:31:04.198] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:04.574] Browser LOG     transactions []
+[00:31:04.574] Browser LOG     transactions []
+[00:31:04.574] Browser LOG     Current month calculated: নভেম্বর ২০২৫
+[00:31:04.574] Browser LOG     Fetching transactions with filters: {"month":"ডিসেম্বর ২০২৫"}
+[00:31:04.574] Browser LOG     API URL: /api/transactions?month=%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:31:04.574] Browser LOG     transactions []
+[00:31:04.574] Browser LOG     transactions []
+[00:31:04.574] Browser LOG     Fetching transactions with filters: {"month":"নভেম্বর ২০২৫"}
+[00:31:04.574] Browser LOG     API URL: /api/transactions?month=%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:31:04.686] Browser LOG     API Response: {"data":[{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}],"success":true}
+[00:31:04.686] Browser LOG     Returning data: [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:04.686] Browser LOG     API Response: {"data":[],"success":true}
+[00:31:04.686] Browser LOG     Returning data: []
+[00:31:04.686] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:31:04.686] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:31:04.686] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764423582848}
+[00:31:04.686] Browser LOG     transactions []
+[00:31:04.686] Browser LOG     transactions []
+[00:31:16.786] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:16.786] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:16.786] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:31:16.786] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:31:25.424] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:25.424] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:26.479] Browser LOG     Fetching transactions with filters: {"month":"ডিসেম্বর ২০২৫"}
+[00:31:26.479] Browser LOG     API URL: /api/transactions?month=%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:31:26.479] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:26.479] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"},{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"1c6e6ed3-f44e-4f02-8756-e7a093d009c9","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:26.670] Browser LOG     API Response: {"data":[{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}],"success":true}
+[00:31:26.670] Browser LOG     Returning data: [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:26.670] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:26.670] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:26.670] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:26.670] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:31:41.012] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:31:41.012] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:31:46.667] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:31:46.667] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:31:58.058] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:31:58.058] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:32:01.561] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:32:01.561] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:32:07.215] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:32:07.215] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:32:07.998] Browser LOG     Fetching transactions with filters: {"month":"ডিসেম্বর ২০২৫"}
+[00:32:07.998] Browser LOG     API URL: /api/transactions?month=%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:32:07.998] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:32:07.998] Browser LOG     transactions [{"amount":35000,"date":"2025-12-05","description":"Riseup Labs Salary","id":"c3805544-771b-4b12-be82-ff64ba090a64","month":"ডিসেম্বর ২০২৫","title":"Salary","type":"income"}]
+[00:32:08.104] Browser LOG     API Response: {"data":[],"success":true}
+[00:32:08.104] Browser LOG     Returning data: []
+[00:32:08.104] Browser LOG     transactions []
+[00:32:08.104] Browser LOG     transactions []
+[00:32:08.727] Browser LOG     transactions []
+[00:32:08.727] Browser LOG     transactions []
+[00:32:28.182] Server  LOG      ✓ Compiled in 94ms
+[00:33:19.419] Server  LOG      ✓ Compiled in 50ms
+[00:33:19.541] Browser LOG     Fetching transactions with filters: {"month":"ডিসেম্বর ২০২৫"}
+[00:33:19.541] Browser LOG     API URL: /api/transactions?month=%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB
+[00:33:19.705] Browser LOG     API Response: {"data":[],"success":true}
+[00:33:19.705] Browser LOG     Returning data: []
+[00:33:20.878] Server  LOG      ✓ Compiled in 89ms
