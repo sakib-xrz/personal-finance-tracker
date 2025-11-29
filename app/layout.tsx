@@ -43,7 +43,7 @@ export default function RootLayout({
   return (
     <html lang="bn" suppressHydrationWarning>
       <body className={`${hindSiliguri.className} antialiased`}>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
           <ReactQueryProvider>
             {children}
             <Toaster />
